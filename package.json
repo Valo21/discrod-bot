@@ -5,7 +5,7 @@
   "main": "src/index.ts",
   "scripts": {
     "dev": "nodemon src/index.ts",
-    "built": "nodemon src/index.ts"
+    "build": "tsc --build"
   },
   "keywords": [
     "discord",
